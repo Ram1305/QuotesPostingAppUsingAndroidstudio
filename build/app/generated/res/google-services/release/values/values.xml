@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">46012950468-qspsedmidrgd8s22h29k619j0rgnbusp.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">46012950468</string>
+    <string name="google_api_key" translatable="false">AIzaSyBtIWyHUrLRv-EjvI3e0JfSkVOJoC-XI0Q</string>
+    <string name="google_app_id" translatable="false">1:46012950468:android:98002e095d0cbec593a691</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBtIWyHUrLRv-EjvI3e0JfSkVOJoC-XI0Q</string>
+    <string name="google_storage_bucket" translatable="false">kavithai-34582.appspot.com</string>
+    <string name="project_id" translatable="false">kavithai-34582</string>
+</resources>
